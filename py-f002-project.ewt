@@ -1196,6 +1196,15 @@
         </file>
     </group>
     <group>
+        <name>inc</name>
+        <file>
+            <name>$PROJ_DIR$\inc\main.h</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\inc\py32f0xx_hal_conf.h</name>
+        </file>
+    </group>
+    <group>
         <name>PY32_HAL_driver</name>
         <group>
             <name>Inc</name>
@@ -1482,6 +1491,12 @@
                 <name>$PROJ_DIR$\PY32F0xx_HAL_Driver\Src\py32f0xx_ll_utils.c</name>
             </file>
         </group>
+    </group>
+    <group>
+        <name>src</name>
+        <file>
+            <name>$PROJ_DIR$\src\SystemFaultIRQ.c</name>
+        </file>
     </group>
     <file>
         <name>$PROJ_DIR$\main.c</name>
