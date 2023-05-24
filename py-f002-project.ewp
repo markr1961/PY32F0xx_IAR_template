@@ -78,7 +78,7 @@
                 </option>
                 <option>
                     <name>OGChipSelectEditMenu</name>
-                    <state>PY32F002Ax5	Puya PY32F002Ax5</state>
+                    <state>PY32F030x6	Puya PY32F030x6</state>
                 </option>
                 <option>
                     <name>GenLowLevelInterface</name>
@@ -138,7 +138,7 @@
                 </option>
                 <option>
                     <name>GFPUDeviceSlave</name>
-                    <state>PY32F002Ax5	Puya PY32F002Ax5</state>
+                    <state>PY32F030x6	Puya PY32F030x6</state>
                 </option>
                 <option>
                     <name>FPU2</name>
@@ -772,7 +772,7 @@
                 </option>
                 <option>
                     <name>IlinkIcfFile</name>
-                    <state>$TOOLKIT_DIR$\config\linker\Puya\PY32F002Ax5.icf</state>
+                    <state>$TOOLKIT_DIR$\config\linker\Puya\PY32F030x6.icf</state>
                 </option>
                 <option>
                     <name>IlinkIcfFileSlave</name>
