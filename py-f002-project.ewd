@@ -44,7 +44,7 @@
                 </option>
                 <option>
                     <name>MemFile</name>
-                    <state>$TOOLKIT_DIR$\CONFIG\debugger\Puya\PY32F002Ax5.ddf</state>
+                    <state>$TOOLKIT_DIR$\CONFIG\debugger\Puya\PY32F030x6.ddf</state>
                 </option>
                 <option>
                     <name>RunToEnable</name>
@@ -112,7 +112,7 @@
                 </option>
                 <option>
                     <name>FlashLoadersV3</name>
-                    <state>$TOOLKIT_DIR$\config\flashloader\Puya\FlashPY32F002Ax5.board</state>
+                    <state>$TOOLKIT_DIR$\config\flashloader\Puya\FlashPY32F030x6.board</state>
                 </option>
                 <option>
                     <name>OCImagesSuppressCheck1</name>
@@ -1123,7 +1123,7 @@
                 <option>
                     <name>CCSTLinkProbeList</name>
                     <version>1</version>
-                    <state>0</state>
+                    <state>2</state>
                 </option>
             </data>
         </settings>

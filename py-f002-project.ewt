@@ -1198,16 +1198,16 @@
     <group>
         <name>inc</name>
         <file>
-            <name>$PROJ_DIR$\inc\main.h</name>
+            <name>$PROJ_DIR$\Inc\main.h</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\inc\py32f0xx_hal_conf.h</name>
+            <name>$PROJ_DIR$\Inc\py32f0xx_hal_conf.h</name>
         </file>
     </group>
     <group>
-        <name>PY32_HAL_driver</name>
+        <name>PY32_Drivers</name>
         <group>
-            <name>Inc</name>
+            <name>HAL_Inc</name>
             <file>
                 <name>$PROJ_DIR$\PY32F0xx_HAL_Driver\Inc\py32f0xx_hal.h</name>
             </file>
@@ -1298,6 +1298,9 @@
             <file>
                 <name>$PROJ_DIR$\PY32F0xx_HAL_Driver\Inc\py32f0xx_hal_wwdg.h</name>
             </file>
+        </group>
+        <group>
+            <name>LL_Inc</name>
             <file>
                 <name>$PROJ_DIR$\PY32F0xx_HAL_Driver\Inc\py32f0xx_ll_adc.h</name>
             </file>
@@ -1363,7 +1366,7 @@
             </file>
         </group>
         <group>
-            <name>src</name>
+            <name>HAL_Src</name>
             <file>
                 <name>$PROJ_DIR$\PY32F0xx_HAL_Driver\Src\py32f0xx_hal.c</name>
             </file>
@@ -1442,6 +1445,9 @@
             <file>
                 <name>$PROJ_DIR$\PY32F0xx_HAL_Driver\Src\py32f0xx_hal_wwdg.c</name>
             </file>
+        </group>
+        <group>
+            <name>LL_Src</name>
             <file>
                 <name>$PROJ_DIR$\PY32F0xx_HAL_Driver\Src\py32f0xx_ll_adc.c</name>
             </file>
